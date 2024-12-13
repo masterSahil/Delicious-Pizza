@@ -1,4 +1,3 @@
-
 @font-face {
     font-family: 'Poppins';
     src: url('../fonts/Poppins-Light.woff2') format('woff2'),
@@ -71,4 +70,19 @@
     font-style: normal;
     font-display: swap;
 }
-
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-ExtraBold.woff2') format('woff2'),
+        url('Poppins-ExtraBold.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins-Bold.woff2') format('woff2'),
+        url('Poppins-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
